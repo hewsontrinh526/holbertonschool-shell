@@ -1,6 +1,6 @@
 Shell, init files, variables and expansions
 
-0. ['<o>'](https://github.com/hewsontrinh526/holbertonschool-shell/blob/master/init_files_variables_and_expansions/0-alias) - Creating a script that creates an alias.
+0. [o](https://github.com/hewsontrinh526/holbertonschool-shell/blob/master/init_files_variables_and_expansions/0-alias) - Creating a script that creates an alias.
 
 1. [Hello you](https://github.com/hewsontrinh526/holbertonschool-shell/blob/master/init_files_variables_and_expansions/1-hello_you) - Creating a script that prints hello <user> where user is the current Linux user.
 
